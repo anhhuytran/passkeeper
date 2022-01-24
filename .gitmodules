@@ -1,0 +1,6 @@
+[submodule "src/passkeeper-restapi"]
+	path = src/passkeeper-restapi
+	url = git@github.com:leduythuccs/passkeeper-restapi.git
+[submodule "src/passkeeper"]
+	path = src/passkeeper
+	url = git@github.com:thuan-nmt/passkeeper.git
